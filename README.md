@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @baljeetsohal84
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi! I'm Baljeet Singh
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysha-gilliard-077aa2a8/)
+<br>
+👋 I Love Coding.
+<br>
+👩‍🏫 I Am a Software Engineer At Fujitsu.
+<br>
+💻 I’m interested in solving challenging problems and building things that help connect people.
+<br>
+💞️ I am passionate about helping non-traditional talent obtain roles in the tech industry.
+<br> 
 
-<!---
-baljeetsohal84/baljeetsohal84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Languages & Tools
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?style=plastic&logo=Jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+
+
+![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=plastic&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?style=plastic)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg??style=plastic&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg??style=plastic&logo=mongodb&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
