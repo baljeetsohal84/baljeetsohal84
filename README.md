@@ -7,7 +7,7 @@
 <br>
 💻 I’m interested in solving challenging problems and building things that help connect people.
 <br>
-💞️ I am passionate about helping non-traditional talent obtain roles in the tech industry.
+💻 I am passionate about helping non-traditional talent obtain roles in the tech industry.
 <br> 
 
 
