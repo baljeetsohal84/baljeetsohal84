@@ -3,7 +3,7 @@
 <br>
 👋 I Love Coding.
 <br>
-👩‍🏫 I Am a Software Engineer At Fujitsu.
+👩‍🏫 I Am a Software Engineer At Intuit.
 <br>
 💻 I’m interested in solving challenging problems and building things that help connect people.
 <br>
